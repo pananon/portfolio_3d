@@ -52,7 +52,7 @@ const About = () => {
         real-world problems. I have achieved 1800+ rating (i.e. 4*) on CodeChef,
         which demonstrates my exceptional problem-solving skills and attention
         to detail. You can check out my CodeChef profile at <br></br>
-        <a style={{color:"red"}} href="https://github.com/codechef.com/users/pandey01">Codechef Profile</a>
+        <a style={{color:"red"}} href="https://codechef.com/users/pandey01" target="_blank">Codechef Profile</a>
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
